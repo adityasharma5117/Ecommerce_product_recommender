@@ -1,4 +1,4 @@
-# E-commerce Product Recommender
+# E-commerce Product Recommender(https://ecommerce-product-recommender-7k51.vercel.app/)
 
 An intelligent product recommendation system built with Next.js, Supabase, and Google's Gemini AI. This application analyzes user browsing behavior to suggest personalized products with AI-generated explanations.
 
