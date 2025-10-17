@@ -42,9 +42,9 @@ Add these to your `.env.local` file (create it if it doesn't exist):
 
 ```env
 NEXT_PUBLIC_SUPABASE_URL=https://mevtfkebjmczjqrszyrp.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1ldnRma2Viam1jempxcnN6eXJwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjAwOTUyMjIsImV4cCI6MjA3NTY3MTIyMn0.IEwDccL9MmYY6HMJB02yQlrvalOViF4gJ02w685byPI
+NEXT_PUBLIC_SUPABASE_ANON_KEY=example_key
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
-GEMINI_API_KEY=AIzaSyCB4bID8hmWlGhdx_r7F0Vq3c7df0UBp0s
+GEMINI_API_KEY=example_key
 ```
 
 ### Getting Your Service Role Key
